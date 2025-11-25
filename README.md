@@ -33,7 +33,7 @@ Este repositório reúne todas as evidências solicitadas na *Avaliação A1*, d
 *Evidência:* Link do portfólio.
 
 📎 *Portfólio GitHub:*  
-👉 (Inserir link do seu GitHub/portfólio)
+👉 (https://github.com/Miguelrd07/TECHFIT.git)
 
 Inclui:  
 - README profissional  
@@ -61,17 +61,7 @@ Cada repositório deve conter um README básico.
 (Inserir PDF do certificado ou comprovante)  
 *Arquivo:* Certificado_Evento.pdf
 
----
 
-## 📂 Organização Recomendada do Repositório
-
-```plaintext
-📁 DesignProfissional_A1
-├── 📄 Curriculo_Latex.pdf
-├── 📄 Certificado_Evento.pdf
-├── 📄 Relato_Processo_Seletivo.pdf
-├── 📁 Portfolio
-│   └── README.md
 ├── 📁 Repositorios_1Semestre
 │   ├── Algoritmos/
 │   ├── Fundamentos_TI/
