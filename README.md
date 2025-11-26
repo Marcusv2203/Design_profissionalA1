@@ -14,7 +14,7 @@ Este repositório reúne todas as evidências solicitadas na *Avaliação A1*, d
 
 📎 *Evidência:*  
 (Inserir aqui o PDF, print ou arquivo com o relato)  
-*Arquivo:* Relato_Processo_Seletivo.pdf
+*Arquivo:* <img width="1919" height="1079" alt="Captura de tela 2025-11-25 210131" src="https://github.com/user-attachments/assets/2cbb4fe8-51d5-45c7-9209-67ac12da995c" />
 
 ---
 
@@ -62,9 +62,3 @@ Cada repositório deve conter um README básico.
 *Arquivo:* Certificado_Evento.pdf
 
 
-├── 📁 Repositorios_1Semestre
-│   ├── Algoritmos/
-│   ├── Fundamentos_TI/
-│   ├── Matemática/
-│   └── Comunicação/
-└── README.md  ← (este documento)
