@@ -1,0 +1,35 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[margin=2cm]{geometry}
+\usepackage{enumitem}
+\usepackage{setspace}
+\setstretch{1.15}
+
+\begin{document}
+
+\begin{center}
+{\Huge \textbf{Marcus Vinicius Marques Ribeiro}}\\
+\vspace{2mm}
+Brasília - DF • Tel: (61) 9 9657-5058
+\end{center}
+
+\section*{Objetivo}
+Desenvolvedor Junior
+
+\section*{Resumo Profissional}
+Estudante de Análise e Desenvolvimento de Sistemas, motivado a iniciar a carreira como desenvolvedor. Interesse em boas práticas, resolução de problemas e aprendizado contínuo. Busco oportunidade para aplicar conhecimentos adquiridos e desenvolver habilidades técnicas em projetos reais.
+
+\section*{Formação Acadêmica}
+\textbf{Análise e Desenvolvimento de Sistemas — Universidade UDF} \hfill Conclusão prevista: 2027
+
+\section*{Habilidades Técnicas}
+- Lógica de programação e estrutura de dados \\
+- Noções de desenvolvimento web (HTML, CSS, JavaScript) \\
+- Interesse em C, Python e Java \\
+- Git / GitHub básico \\
+- Trabalho em equipe e comunicação
+
+\section*{Informações Adicionais}
+- Total disponibilidade para aprender e se desenvolver \\
+- Interesse em estágios, vagas júnior e trainee
+
+\end{document}
